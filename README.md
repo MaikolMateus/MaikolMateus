@@ -11,6 +11,6 @@
 - 🌱 Estoy aprendiendo modelos matemáticos en **Maching Learning**
 - 👯 contacto: mmateus@unal.edu.co
 - ⚡ Manizales beso tu nombre.
-<img aling= "right" src = "https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExYjdheW5tY3Y1aXg4ODVmN3lndG1mcnF3bjVwZzg1cXJ2bG53Znk2YSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/QJ8bR5An4VC59FvVcx/giphy.webp" with="20">
+<img aling="right" src = "https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExYjdheW5tY3Y1aXg4ODVmN3lndG1mcnF3bjVwZzg1cXJ2bG53Znk2YSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/QJ8bR5An4VC59FvVcx/giphy.webp" with="20">
 
 
